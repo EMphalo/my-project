@@ -1,11 +1,4 @@
-  
-  <slot />
-<nav class="bg-orange-200 text-black py-2">
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-</nav>
-
-<h1>Home Page</h1>
+  <h1>Home Page</h1>
 <p>This is the landing page</p>
 <div class="flex justify-center">
     <div class="">
