@@ -50,6 +50,7 @@
 <!-- bento Grid -->
 <div class="h-screen w-full bg-slate-700 flex justify-center items-center p-6">
     <div class="grid h-full w-full grid-cols-10 grid-rows-4 gap-4">
+        
         <div class="col-span-4 row-span-3 bg-indigo-200 rounded-3xl flex justify-center items-center">Featured Work</div>
         <div class="col-span-4 row-span-1 bg-indigo-200 rounded-3xl flex justify-center items-center">Artist Name</div>
         <div class="col-span-2 row-span-1 bg-indigo-200 rounded-3xl flex justify-center items-center">Photo</div>
